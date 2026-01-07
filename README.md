@@ -1,2 +1,34 @@
 # Google-hackathon
-Employee Onboarding &amp; HR Management Portal centralizes onboarding resources and SOPs into one platform. It enables HR to approve leaves, assign tasks, and manage workflows, while employees can apply for leave, chat, make calls, and access onboarding materials—reducing manual effort and improving collaboration.
+Employee Onboarding & HR Management Portal
+
+The Employee Onboarding & HR Management Portal is a unified platform designed to streamline the entire employee lifecycle. It centralizes onboarding resources and Standard Operating Procedures (SOPs) while providing powerful HR management and communication tools.
+
+🚀 Features
+
+📚 Centralized onboarding materials & SOPs
+
+🧑‍💼 HR dashboard to approve leaves and assign tasks
+
+📝 Employees can apply for leave and track status
+
+💬 Real-time chat and 1:1 calls
+
+👥 Group calls for team collaboration
+
+🎫 Ticket raising system for support and issues
+
+🤖 Gemini-powered assistant for quick help and guidance
+
+🎯 Benefits
+
+Reduces manual onboarding effort
+
+Improves collaboration and communication
+
+Enhances productivity and transparency
+
+Provides a single source of truth for employees and HR
+
+🛠 Use Case
+
+Ideal for organizations looking to modernize onboarding, improve HR efficiency, and enable seamless communication through an all-in-one platform.
